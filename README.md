@@ -50,10 +50,10 @@ Target: MedHouseVal
       - tp = RFR.predict(d_test)
 
 # Results and Evaluation
-    - Mean Absolute Error (MAE): 0.336
-    - Mean Squared Error (MSE): 0.265
-    - Root Mean Squared Error (RMSE): 0.515
-    - R² Score: 0.804
+     Mean Absolute Error (MAE): 0.336
+     Mean Squared Error (MSE): 0.265
+     Root Mean Squared Error (RMSE): 0.515
+     R² Score: 0.804
 The model performs well with an R² score of 0.804, indicating strong predictive capability.
 
 # Future Work
